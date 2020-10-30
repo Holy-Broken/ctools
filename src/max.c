@@ -1,7 +1,8 @@
-#include <stdio.h>
-int max(int i,int j)
-{if (i >j)
- {return i;}
- else 
- {return j;}
-} 
+#include "max.h"
+int max(int a, int b)
+{
+  if(a>b) return a;
+  else return b;
+
+}
+

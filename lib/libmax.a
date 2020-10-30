@@ -1,0 +1,10 @@
+!<arch>
+max.c/          1603801793  1000  1000  100664  87        `
+#include <stdio.h>
+int max(int i,int j)
+{if (i >j)
+ {return i;}
+ else 
+ {return j;}
+} 
+

@@ -1,0 +1,9 @@
+!<arch>
+sum.c/          1603801398  1000  1000  100664  77        `
+#include <stdio.h>
+int sum(int i ,int j)
+{int sum ;
+ sum=i+j;
+ return sum;
+}
+
